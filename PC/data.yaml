@@ -1,0 +1,12 @@
+# 数据集在 datasets 目录下的文件夹路径
+path: customized-coco-2017
+
+# 训练集、验证集、测试集相对于 path 的路径（一般不用区分验证集和测试集，统称测试集）
+train: images/train2017
+val: images/val2017
+test: images/val2017
+
+# 框的类别（对于关键点检测，只有一类）
+nc: 1
+names:
+  0: car

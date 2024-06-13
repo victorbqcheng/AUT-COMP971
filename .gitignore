@@ -1,0 +1,4 @@
+/__pycache__
+/runs
+/yolov8n.pt
+/yolov8s_ncnn_model
